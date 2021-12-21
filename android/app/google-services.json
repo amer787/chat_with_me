@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47559373320",
+    "project_id": "chat-with-me-a645c",
+    "storage_bucket": "chat-with-me-a645c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47559373320:android:422e10625fd53ba9e897bd",
+        "android_client_info": {
+          "package_name": "at.ameralshatri.chat_with_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47559373320-c4m0d8sra47pknovu8n0bdqqqq24rvj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxrzr3BUfih__k5V1cpYlioIdM3MbTsEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47559373320-c4m0d8sra47pknovu8n0bdqqqq24rvj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
